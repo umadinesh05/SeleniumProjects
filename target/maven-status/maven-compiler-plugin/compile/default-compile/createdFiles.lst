@@ -1,0 +1,8 @@
+umadinu\AbstractComponents\AbstarctComponents.class
+umadinu\pageobjects\CartPage.class
+umadinu\pageobjects\CheckoutPage.class
+umadinu\pageobjects\ProductCatalogue.class
+umadinu\resources\ExtentReportNG.class
+umadinu\pageobjects\LandingPage.class
+umadinu\pageobjects\ConfirmationPage.class
+umadinu\pageobjects\OrdersPage.class
